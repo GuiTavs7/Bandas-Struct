@@ -9,7 +9,7 @@ int main()
         int integrantes, ranking;
     };
     
-    struct reg_bandas bandas[3];
+    struct reg_bandas bandas[5];
     
     int i, posicao;
     
